@@ -1,0 +1,17 @@
+/* .contain{
+    position: absolute;
+    margin-top: 350px;
+    height: 87px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    flex-direction: column;
+    
+}
+
+@media screen and (max-width: 500px){
+    .contain{
+        
+    }
+} */
